@@ -1,0 +1,31 @@
+/* Change the background color of the page */
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+/* Style all h1 headings */
+h1 {
+  color: #333333;
+  text-align: center;
+}
+
+/* Style paragraphs */
+p {
+  color: #666666;
+  font-size: 16px;
+}
+
+/* Simple button style */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
